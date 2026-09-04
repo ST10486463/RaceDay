@@ -1,0 +1,5 @@
+Initial project setup
+In this commit, I created the initial project structure for the event management system. 
+I set up the main project and organised the required folders for the database, models, controllers, services and frontend components.
+I also configured the basic project settings and ensured that the application could run successfully before beginning development of the individual system features.
+
