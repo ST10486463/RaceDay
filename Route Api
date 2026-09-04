@@ -1,0 +1,3 @@
+In this commit, I implemented the API endpoints required to manage event routes. 
+The API allows route information to be created, retrieved, updated and managed through the backend. 
+This allows the frontend application to communicate with the database and display the correct route information to the relevant users.
