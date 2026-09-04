@@ -1,0 +1,1 @@
+In this commit, I implemented functionality that allows Participants to view the events available in the system. Participants can access important event information such as the event name, date, location, category and description. This allows Participants to review the available events before deciding which events they want to attend.
