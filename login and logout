@@ -1,0 +1,4 @@
+Implement User Login and Logout
+In this commit, I implemented the login functionality that allows registered users to access the system.
+The system checks the user's login details against the stored account information before granting access.
+Logout functionality was also added so that users can securely end their session. The user's role can then be used to determine which features and pages they can access.
