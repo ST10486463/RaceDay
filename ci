@@ -1,0 +1,3 @@
+git add EventManagementSystem.csproj
+git commit -m "Add EventManagementSystem project file"
+git push
