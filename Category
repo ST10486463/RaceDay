@@ -1,0 +1,4 @@
+Create category functionality
+In this commit, I created the Category entity and implemented the functionality required to manage event categories. 
+Categories allow events to be organised into different types, making it easier for Participants to identify and find suitable events. 
+The Category entity was also connected to the Event entity according to the relationships defined in the ERD.
