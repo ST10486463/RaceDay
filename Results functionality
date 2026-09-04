@@ -1,0 +1,2 @@
+In this commit, I created the Results entity and implemented the functionality for storing participant results. Results can contain information relating to a Participant's performance or completion of an event. 
+The Results entity was connected to the relevant event participation/enrolment information so that results can be associated with the correct Participant and event.
