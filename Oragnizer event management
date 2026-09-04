@@ -1,0 +1,3 @@
+In this commit, I implemented functionality specifically for Organizers to manage their events. An Organizer can create new events, view their existing events and update event information when necessary. 
+The system also ensures that the Organizer is associated with the events they manage. 
+This functionality allows Organizers to control the event information through the system.
