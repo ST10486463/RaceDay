@@ -1,0 +1,3 @@
+In this final commit, I tested the complete event management system to identify and resolve errors and problems.
+I tested important functionality including registration, login, role access, event management, event enrolment, route management and results. 
+I also corrected validation issues and improved the overall functionality of the application. The final testing ensured that the frontend, API, backend and database could work together correctly.
