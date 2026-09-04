@@ -1,0 +1,3 @@
+In this commit, I created the Route entity and implemented the functionality required to associate routes with events.
+A route represents the path or course that Participants follow during an event.
+The Route entity was connected to the Event according to the ERD so that the appropriate route information can be associated with each event.
