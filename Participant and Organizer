@@ -1,0 +1,4 @@
+Add Organizer and Participant Roles
+In this commit, I implemented the two main user roles in the system: Organizer and Participant. 
+Organizers are responsible for creating and managing events, routes and results, while Participants can browse events, enrol in events, participate and view their results. 
+The role structure was added so that the system can distinguish between the different responsibilities and functionality available to each type of user.
