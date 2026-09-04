@@ -1,0 +1,3 @@
+In this commit, I developed the API functionality for managing events.
+API endpoints were created to allow the application to create, retrieve, update and delete event information where permitted. 
+The API provides communication between the frontend and backend and allows event data to be retrieved from and stored in the database.
