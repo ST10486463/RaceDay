@@ -1,0 +1,1 @@
+n this commit, I implemented the API functionality for managing Participant results. The backend can receive and store result information and retrieve results when they need to be displayed. Organizers can use this functionality to manage results, while Participants can access their results after completing an event.
