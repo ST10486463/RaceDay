@@ -1,0 +1,5 @@
+Implement user registration
+
+In this commit, I implemented the registration functionality for new users. Users can provide their required information and create an account in the system. 
+Validation was included to ensure that the information entered is acceptable before it is stored in the database. 
+The registration process also allows the appropriate user role to be associated with the account.
