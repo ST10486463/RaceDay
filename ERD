@@ -1,0 +1,6 @@
+Create Database and ERD Structure
+
+
+In this commit, I created the initial database structure based on the Entity Relationship Diagram (ERD). 
+The main entities and their relationships were identified and implemented, including User, Category, Event, Event Enrolment, Organizer, Route and Results.
+Primary keys and foreign keys were added where required to establish relationships between the tables and maintain data integrity.
