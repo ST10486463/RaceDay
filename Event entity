@@ -1,0 +1,4 @@
+Create Event Entity
+In this commit, I created the Event entity and added the attributes required to store event information.
+This includes information such as the event name, date, location and other relevant event details. Relationships between the Event, Category 
+and Organizer were also implemented so that each event can be associated with its category and the Organizer responsible for managing it.
