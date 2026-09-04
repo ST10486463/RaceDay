@@ -1,0 +1,3 @@
+In this commit, I implemented the Event Enrolment functionality. Participants can select an available event and enrol to participate in it. 
+The enrolment information is stored in the database and establishes the relationship between the Participant and the Event. 
+Validation was also considered to prevent invalid enrolments and ensure that the required information is recorded correctly.
